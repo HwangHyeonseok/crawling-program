@@ -1,5 +1,6 @@
 # 연성대학교 Q&A 게시판 제목 키워드 분석
 # 상업적 목적 이용 금지
+# 상업적 이용 시 모든 법적 책임은 프로그램 사용자에게 있음을 명시합니다.
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
