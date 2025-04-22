@@ -1,4 +1,5 @@
 # 네이버 블로그에서 검색어에 따른 상위 N개 게시글 정보 추출 (제목, 게시글 URL, 게시글 내용(약 100자), 블로그 이름, 블로그 URL, 작성일)
+# 네이버 API 사용
 import json
 import os
 import sys
